@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Greater Portland Electric</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background-color: #003366; color: white; padding: 20px; text-align: center; }
+        nav { background-color: #0055a5; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        .logo { max-width: 150px; margin-bottom: 10px; }
+        .section { padding: 40px; text-align: center; }
+        .services img { width: 200px; height: 150px; object-fit: cover; margin: 10px; }
+        footer { background-color: #003366; color: white; text-align: center; padding: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="images/logo-placeholder.png"1>Greater Portland Electric</h1>
+        <p>Reliable Electrical Services for Your Home and Business</p>
+    </header>
+    <nav>
+        #servicesServices</a>
+        #contactContact</a>
+    </nav>
+    <div class="section services" id="services">
+        <h2>Our Services</h2>
+        <p>We offer a wide range of electrical services to meet your needs.</p>
+        <div>
+            <img src="images/service1-placeholder.jpg"  images/service2-placeholder.jpg
+            <img src="images/service3-placeholder.jpg/div>
+    </div>
+    <div class="section" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@greaterportlandelectric.com</p>
+        <p>Phone: (555) 123-4567</p>
+        <p>Address: 123 Main Street, Portland, OR</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Greater Portland Electric. All rights reserved.</p>
+    </footer>
+</body>
+</html>
